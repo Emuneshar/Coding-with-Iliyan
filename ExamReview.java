@@ -1,6 +1,6 @@
 public class ExamReview {
     public static void main(String [] args){
-        String holiday = "Thanksgiving";
+        String holiday = "New Years";
 
         switch(holiday){
             case "Easter":
